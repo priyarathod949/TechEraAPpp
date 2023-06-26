@@ -1,0 +1,38 @@
+.failureContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.errorImg {
+  width: 500px;
+  height: 200px;
+  margin-bottom: 20px;
+}
+
+.errorHeading {
+  color: #4656a1;
+  font-family: 'Roboto';
+  font-weight: 800;
+  font-size: 40px;
+}
+
+.errorInfo {
+  color: #4656a1;
+  font-family: 'Roboto';
+  font-weight: 800;
+  font-size: 28px;
+}
+
+.errorRetryButton {
+  width: 100px;
+  height: 40px;
+  color: #e8e8e8;
+  font-size: 20px;
+  font-weight: 100;
+  font-family: 'Roboto';
+  background-color: #4656a1;
+  border-radius: 5px;
+  border-width: 0px;
+}
